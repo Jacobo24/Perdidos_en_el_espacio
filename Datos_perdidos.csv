@@ -1,0 +1,16 @@
+ID,Longitud (m),Tiempo (s),g (m/s²),Error (m/s²),Planeta 1,Probabilidad 1,Planeta 2,Probabilidad 2,Planeta 3,Probabilidad 3
+1,1.00,0.45,9.80,0.00,Tierra,100%,Saturno,0%,Urano,0%
+2,1.00,0.46,9.47,0.33,Tierra,90%,Saturno,10%,Urano,0%
+3,1.00,0.47,9.14,0.66,Tierra,80%,Saturno,20%,Urano,0%
+4,1.00,0.48,8.82,0.98,Tierra,70%,Saturno,30%,Urano,0%
+5,2.00,0.64,9.75,0.05,Tierra,95%,Saturno,5%,Urano,0%
+6,2.00,0.65,9.54,0.26,Tierra,90%,Saturno,10%,Urano,0%
+7,2.00,0.66,9.32,0.48,Tierra,85%,Saturno,15%,Urano,0%
+8,2.00,0.67,9.11,0.69,Tierra,80%,Saturno,20%,Urano,0%
+9,1.00,0.49,8.50,1.30,Tierra,60%,Saturno,40%,Urano,0%
+10,1.00,0.48,8.68,1.12,Urano,60%,Saturno,40%,Tierra,0%
+11,1.80,0.72,8.64,1.16,Urano,65%,Saturno,35%,Tierra,0%
+12,1.70,0.58,10.08,0.28,Tierra,70%,Saturno,30%,Urano,0%
+13,0.70,0.42,7.94,1.86,Urano,70%,Saturno,30%,Tierra,0%
+14,1.50,0.57,9.18,0.62,Tierra,50%,Saturno,30%,Urano,20%
+15,0.60,0.36,9.26,0.54,Tierra,60%,Saturno,40%,Urano,0%
